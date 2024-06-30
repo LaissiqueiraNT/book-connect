@@ -24,10 +24,10 @@ export default function Carrinho() {
                     text="Harry Potter e a Câmara Secreta"
                     preco="$60,00"
                 />
-                
+                <View style={{}}>
                 <View style={styles.checkBoxTotal}>
-                    <CheckBox /><Text style={{marginLeft:-90,marginTop:-2}}>Tudo</Text>
-                    <Text style={styles.texto}>Sub-total: 120,00</Text>
+                    <CheckBox /><Text style={{marginLeft:-90}}>Tudo</Text>
+                    <Text style={{fontSize: 20, marginLeft: 5,}}>Sub-total: 120,00</Text>
                 </View>
 
 
@@ -36,6 +36,7 @@ export default function Carrinho() {
                     <TouchableOpacity style={styles.button}>
                         <Text style={styles.buttontext}>Confirmar</Text>
                     </TouchableOpacity>
+                </View>
                 </View>
             </SafeAreaView>
         </ScrollView>
@@ -67,7 +68,7 @@ const styles = StyleSheet.create({
         
     },
     button: {
-        marginTop:-40,
+        marginTop:0,
         alignItems: 'center',
         justifyContent: 'center',
         backgroundColor: '#E88239',

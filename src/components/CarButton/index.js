@@ -12,8 +12,9 @@ import {
 const CarButton = (props) => {
     return (
 
-        // Aqui ficar os botoes do carrinho
+        
         <SafeAreaView style={styles.boxSelect}>
+        {/* Aqui ficar os botoes do carrinho    */}
             <View style={styles.Select}>
                 <CheckBox style={{ marginTop: -140 }}></CheckBox>
                 <Image style={styles.image} resizeMode='center' source={props.imageSource} />
@@ -24,8 +25,10 @@ const CarButton = (props) => {
                 <TouchableOpacity style={styles.button}>
                     <Text style={styles.buttontext}>Comprar</Text>
                 </TouchableOpacity>
-                {/*  Aqui ficar os botoes do carrinho */}
+                
             </View>
+{/*  Aqui ficar os botoes do carrinho */}
+
         </SafeAreaView>
     )
 }
@@ -33,7 +36,7 @@ const styles = StyleSheet.create({
     boxSelect: {
         justifyContent: 'center',
         alignItems: 'center',
-        marginTop: 20,
+        flexDirection:'column',
         marginVertical: 5,
         marginHorizontal: 5,
     },
