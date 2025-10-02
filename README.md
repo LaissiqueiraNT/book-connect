@@ -7,15 +7,7 @@
 
 ## 📸 Preview
 
-<img src="./prints/1.png" alt="Book Connect App" width="300" />
-<img src="./prints/2.png" alt="Book Connect App" width="300" />
-<img src="./prints/3.png" alt="Book Connect App" width="300" />
-<img src="./prints/4.png" alt="Book Connect App" width="300" />
-<img src="./prints/5.png" alt="Book Connect App" width="300" />
-<img src="./prints/6.png" alt="Book Connect App" width="300" />
-<img src="./prints/7.png" alt="Book Connect App" width="300" />
 
-*(adicione uma print do app em `docs/screenshot.png` ou outro caminho)*
 
 ---
 
@@ -62,3 +54,16 @@ W
 
 
 Isso vai abrir o projeto direto no navegador 🌐
+
+## Primeiramente vc clica nesta extensão intalamos anteriormente
+
+<img src="./prints/1.png" alt="Book Connect App" width="300" />
+
+## Aqui esta alguns prints do App caso não queira rodar no seu PC
+
+<img src="./prints/2.png" alt="Book Connect App" width="300" />
+<img src="./prints/3.png" alt="Book Connect App" width="300" />
+<img src="./prints/4.png" alt="Book Connect App" width="300" />
+<img src="./prints/5.png" alt="Book Connect App" width="300" />
+<img src="./prints/6.png" alt="Book Connect App" width="300" />
+<img src="./prints/7.png" alt="Book Connect App" width="300" />
