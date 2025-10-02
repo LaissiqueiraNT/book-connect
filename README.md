@@ -55,7 +55,7 @@ W
 
 Isso vai abrir o projeto direto no navegador 🌐
 
-## Primeiramente vc clica nesta extensão intalamos anteriormente
+## Primeiramente vc clica nesta extensão instalamos anteriormente
 
 <img src="./prints/1.png" alt="Book Connect App" width="300" />
 
