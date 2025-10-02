@@ -30,7 +30,7 @@ Além disso, instale a extensão no seu Chrome para rodar no navegador:
 Clone o repositório e entre na pasta:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/book-connect.git
+git clone https://github.com/LaissiqueiraNT/book-connect.git
 
 ```
 cd book-connect
