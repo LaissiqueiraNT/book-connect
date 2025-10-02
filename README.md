@@ -5,12 +5,6 @@
 
 ---
 
-## 📸 Preview
-
-
-
----
-
 ## ⚡️ Pré-requisitos
 
 Antes de rodar o projeto, certifique-se de ter instalado:
